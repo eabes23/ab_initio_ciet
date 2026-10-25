@@ -18,6 +18,7 @@ q̃ = (row − 100) / 281
 **Columns (left to right) correspond to ξ̃, the ion-transfer coordinate, which decreases across the columns:**
 
 z  = 1.70038 + 0.0083459 × (col − 1)   (Å)
+
 ξ̃  = (5.06 − z) / 2.71
 
 Here z is the distance of the carbon atom from the electrode, so z increases from left to right.
